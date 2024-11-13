@@ -4,7 +4,7 @@
 
 ## I'm a Developer
 
-- 🌱 I am currently learning more about backend development.
+- 🌱 I am currently learning more about development.
 - 📫 What is the best way to contact me? [Instagram](https://www.instagram.com/f1qxzz_/)
 - 😄 Pronouns: He/Him
 
