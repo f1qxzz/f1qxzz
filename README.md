@@ -18,7 +18,7 @@
   gender: boy; 
   age: 16 y.o; 
   hoby : game;
-  status : student's;
+  status : student;
 }
 ```
 
