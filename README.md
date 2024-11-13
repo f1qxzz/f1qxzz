@@ -5,7 +5,7 @@
 <br>
 <br>
 
-# Hi there, I'm f1qxzz <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
+<center> # Hi there, I'm f1qxzz</center> <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
