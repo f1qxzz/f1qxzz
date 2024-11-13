@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
-## I'm a Developer
+## I'm a student's
 
 - 🌱 I am currently learning more about development.
 - 📫 What is the best way to contact me? [Instagram](https://www.instagram.com/f1qxzz_/)
