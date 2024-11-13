@@ -17,7 +17,7 @@
 # -*- coding: utf-8 -*-
 
 
-class SoftwareEngineer:
+class :
 
     def __init__(self):
         self.name = "f1qxzz"
@@ -28,8 +28,6 @@ class SoftwareEngineer:
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
-
-me = Development ()
 me.say_hi()
 ```
 
@@ -46,14 +44,6 @@ me.say_hi()
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/f1qxzz">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=f1qxzz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=f1qxzz&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 
 
 <!--START_SECTION:waka-->
