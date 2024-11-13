@@ -1,6 +1,8 @@
-#WELCOME EVERYONE 
+
 
 <img align="right" alt="GIF" height="160px" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" />
+
+
 
 # Hi there, I'm f1qxzz <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
