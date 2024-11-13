@@ -11,15 +11,16 @@
 </center>
 </div>
 
-
+```python
 #me { 
   name: f1qxzz; 
   height: 162cm; 
   gender: boy; 
   age: 16 y.o; 
   hoby : game;
-  status : student's:
+  status : student's;
 }
+```
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
