@@ -61,7 +61,4 @@ No Activity Tracked This Week
 [![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)]()
 
 
-<img src="https://imgur.com/rilHVxA.png"/> 
-<img src="https://github.com/f1qxzz/.github/workflows/snake.yml" alt="Snake animation" />
-
-###
+<img src="https://imgur.com/rilHVxA.png"/>
