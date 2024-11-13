@@ -13,8 +13,6 @@
 - 📫 What is the best way to contact me? [Instagram](https://www.instagram.com/f1qxzz_/)
 - 😄 Pronouns: He/Him
 
-[![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/f1qxzz)
-
 ---
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
