@@ -6,7 +6,7 @@
     <img alt="Developer Pic"
         src="https://user-images.githubusercontent.com/49222186/110210369-58458c80-7eb7-11eb-9d6e-2129358b3098.png" width="350"/>
     <br/><br/>
-    <p>🙏🏻 Welcome to my Github profile!<br />
+    <p> WELCOME TO MY GITHUB !<br/>
     </p>
 </center>
 </div>
