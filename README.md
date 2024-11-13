@@ -79,5 +79,7 @@ No Activity Tracked This Week
 
 
 <img src="https://imgur.com/rilHVxA.png"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=f1qxzz&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
