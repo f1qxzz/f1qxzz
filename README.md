@@ -12,24 +12,15 @@
 </div>
 
 
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
+#me { 
+  name: f1qxzz; 
+  height: 162cm; 
+  gender: boy; 
+  age: 16 y.o; 
+  hoby : game;
+  status : student's:
+}
 
-
-class :
-
-    def __init__(self):
-        self.name = "f1qxzz"
-        self.age = "16 y.o"
-        self.country = ["Indonesia"]
-        self.skill = ["Html, Css, Python, Nodejs, Php"]
-
-    def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
-
-me.say_hi()
-```
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
