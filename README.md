@@ -7,7 +7,7 @@
 
 
 ## I'm a student's
-<img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
+
 - 🌱 I am currently learning more about development.
 - 📫 What is the best way to contact me? [Instagram](https://www.instagram.com/f1qxzz_/)
 - 😄 Pronouns: He/Him
