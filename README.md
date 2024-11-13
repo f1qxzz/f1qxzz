@@ -12,11 +12,25 @@
 </div>
 
 
-## I'm a student's
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
-- 🌱 I am currently learning more about development.
-- 📫 What is the best way to contact me? [Instagram](https://www.instagram.com/f1qxzz_/)
-- 😄 Pronouns: He/Him
+
+class SoftwareEngineer:
+
+    def __init__(self):
+        self.name = "f1qxzz"
+        self.role = "Development"
+        self.language_spoken = ["ind - jawa"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+
+
+me = Development ()
+me.say_hi()
+```
 
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" />
 
