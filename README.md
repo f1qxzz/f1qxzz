@@ -62,3 +62,6 @@ No Activity Tracked This Week
 
 
 <img src="https://imgur.com/rilHVxA.png"/> 
+<img src="https://raw.githubusercontent.com/f1qxzz/f1qxzz/output/snake.svg" alt="Snake animation" />
+
+###
