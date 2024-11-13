@@ -21,8 +21,9 @@ class SoftwareEngineer:
 
     def __init__(self):
         self.name = "f1qxzz"
-        self.role = "Development"
-        self.language_spoken = ["ind - jawa"]
+        self.age = "16 y.o"
+        self.country = ["Indonesia"]
+        self.skill = ["Html, Css, Python, Nodejs, Php"]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
