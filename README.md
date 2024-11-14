@@ -13,8 +13,7 @@
 
 ```python
 #me { 
-  name: f1qxzz; 
-  height: 162cm; 
+  name: f1qxzz;
   gender: boy; 
   age: 16 y.o; 
   hoby : game;
