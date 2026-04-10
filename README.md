@@ -1,4 +1,3 @@
-
 <div align="center">
 
 ```
@@ -102,15 +101,15 @@ refactor dari BOTV1.
 <tr>
 <td width="50%" valign="top">
 
-#### 📖 [ukk_perpus](https://github.com/f1qxzz/ukk_perpus)
+#### 🛸 [cinehand-ai](https://github.com/f1qxzz/cinehand-ai)
 ```
-Sistem perpustakaan digital —
-manajemen buku, anggota,
-transaksi & denda otomatis.
+Real-time face recognition +
+hand tracking — kontrol game
+& FX pakai gerakan tangan.
 ```
-![PHP](https://img.shields.io/badge/PHP-777bb4?style=flat-square&logo=php&logoColor=fff)
-![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=mysql&logoColor=fff)
-`full-stack`
+![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=fff)
+![OpenCV](https://img.shields.io/badge/OpenCV-5c3ee8?style=flat-square&logo=opencv&logoColor=fff)
+`ai` `computer-vision`
 
 </td>
 <td width="50%" valign="top">
