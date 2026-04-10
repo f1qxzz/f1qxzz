@@ -26,7 +26,7 @@
 ```js
 const f1qxzz = {
   location  : "Indonesia",
-  stack     : ["JavaScript", "Node.js", "PHP", "Go", "MySQL"],
+  stack     : ["JavaScript", "Node.js", "PHP", "Python", "Go", "MySQL"],
   focus     : ["web apps", "bots", "automation"],
   exploring : "Go · distributed systems",
   available : true,
@@ -51,6 +51,7 @@ const f1qxzz = {
 | <img width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"> | **PHP** | `active` | `██████████░░` 80% |
 | <img width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> | **Git** | `active` | `███████████░` 88% |
 | <img width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> | **MySQL** | `active` | `█████████░░░` 75% |
+| <img width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> | **Python** | `active` | `████████░░░░` 70% |
 | <img width="18" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg"> | **Go** | `learning 🔶` | `█████░░░░░░░` 40% |
 
 </div>
