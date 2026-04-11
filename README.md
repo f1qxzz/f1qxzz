@@ -36,6 +36,26 @@ const f1qxzz = {
 
 ---
 
+## `> stack / language`
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=000)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
+![PHP](https://img.shields.io/badge/PHP-777bb4?style=for-the-badge&logo=php&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=fff)
+![Go](https://img.shields.io/badge/Go-00add8?style=for-the-badge&logo=go&logoColor=fff)
+![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=for-the-badge&logo=mysql&logoColor=fff)
+
+![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=fff)
+![Linux](https://img.shields.io/badge/Linux-fcc624?style=for-the-badge&logo=linux&logoColor=000)
+![Telegram Bot](https://img.shields.io/badge/Telegram%20Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=fff)
+
+</div>
+
+---
+
 ## `> projects`
 
 <table>
