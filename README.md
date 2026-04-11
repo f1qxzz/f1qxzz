@@ -102,9 +102,37 @@ image generation, reminder.
 ## `> stats`
 
 <div align="center">
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=f1qxzz&show_icons=true&hide_border=true&bg_color=080c10&title_color=3fb950&icon_color=238636&text_color=8b949e&include_all_commits=true&custom_title=f1qxzz+stats"/>
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/f1qxzz&query=public_repos&label=repos&style=for-the-badge&color=0f766e&labelColor=0b1220"/>
+<br><sub><sup>public repositories</sup></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/github/followers/f1qxzz?style=for-the-badge&label=followers&color=1f6feb&labelColor=0b1220"/>
+<br><sub><sup>community</sup></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/github/stars/f1qxzz?affiliations=OWNER&style=for-the-badge&label=stars&color=f59e0b&labelColor=0b1220"/>
+<br><sub><sup>stars earned</sup></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://komarev.com/ghpvc/?username=f1qxzz&style=for-the-badge&color=22c55e&label=views"/>
+<br><sub><sup>profile views</sup></sub>
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=f1qxzz&bg_color=080c10&color=22c55e&line=16a34a&point=86efac&area=true&hide_border=true" width="100%"/>
+
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=f1qxzz&show_icons=true&hide_border=true&bg_color=080c10&title_color=3fb950&icon_color=22c55e&text_color=8b949e&include_all_commits=true&rank_icon=github"/>
 &nbsp;
 <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f1qxzz&layout=compact&hide_border=true&bg_color=080c10&title_color=3fb950&text_color=8b949e&langs_count=6"/>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=f1qxzz&hide_border=true&background=080c10&ring=22c55e&fire=22c55e&currStreakLabel=3fb950&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e" width="62%"/>
 </div>
 
 ---
