@@ -144,19 +144,7 @@ philosophy: Code is poetry
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="28" /> Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=f1qxzz&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15&bg_color=0d1117" />
-
-</div>
-
-<br/>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" width="28" /> Activity Graph
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> Activity Graph
 
 <div align="center">
 
@@ -170,11 +158,7 @@ philosophy: Code is poetry
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Shooting%20Star.png" width="25" />
-
   **"First, solve the problem. Then, write the code."** — John Johnson
-
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Shooting%20Star.png" width="25" />
 
   <br/><br/>
 
