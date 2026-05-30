@@ -152,17 +152,17 @@
 
 <div align="center">
 
-<a href="https://github.com/f1qxzz/rekapin">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=f1qxzz&repo=rekapin&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9" />
+<a href="https://github.com/f1qxzz/rekap-in">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=f1qxzz&repo=rekap-in&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9" />
 </a>
-<a href="https://github.com/f1qxzz/smartlife">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=f1qxzz&repo=smartlife&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9" />
+<a href="https://github.com/f1qxzz/SmartApp">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=f1qxzz&repo=SmartApp&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9" />
 </a>
 <a href="https://github.com/f1qxzz/agent-ai">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=f1qxzz&repo=agent-ai&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9" />
 </a>
-<a href="https://github.com/f1qxzz/cozy-library">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=f1qxzz&repo=cozy-library&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9" />
+<a href="https://github.com/f1qxzz/Cozy-Library">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=f1qxzz&repo=Cozy-Library&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9" />
 </a>
 
 </div>
