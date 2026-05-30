@@ -1,13 +1,13 @@
 <div align="center">
 
   <a href="https://github.com/f1qxzz">
-    <img width="130" src="https://avatars.githubusercontent.com/f1qxzz" alt="f1qxzz" style="border-radius:50%; border: 3px solid #58a6ff;"/>
+    <img width="150" src="https://avatars.githubusercontent.com/f1qxzz" alt="f1qxzz" style="border-radius:50%; border: 3px solid #58a6ff; box-shadow: 0 0 20px rgba(88, 166, 255, 0.5);"/>
   </a>
 
   <h1>f1qxzz</h1>
 
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58a6ff&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=60&lines=Full-Stack+Developer;Building+things+that+matter." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58a6ff&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%3E+SYSTEM+ONLINE%3B%0AFull-Stack+Developer+%7C+Open+Source+Enthusiast%0ABuilding+things+that+matter." alt="Typing SVG" />
   </p>
 
   <a href="https://github.com/f1qxzz">
@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/badge/-Follow-30363d?style=for-the-badge&logo=github&logoColor=white" alt="Follow" />
   <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 
 </div>
 
@@ -23,7 +24,7 @@
 
 ---
 
-## About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="28" /> About Me
 
 <br/>
 
@@ -55,7 +56,7 @@
 
 ---
 
-## Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28" /> Tech Stack
 
 <br/>
 
@@ -112,7 +113,9 @@
 
 ---
 
-## GitHub Analytics
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> GitHub Analytics
+
+<br/>
 
 <div align="center">
 
@@ -131,7 +134,7 @@
 
 ---
 
-## Activity Graph
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" width="28" /> Activity Graph
 
 <div align="center">
 
@@ -143,7 +146,30 @@
 
 ---
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Sparkles.png" width="28" /> Featured Repositories
+
+<br/>
+
 <div align="center">
+
+<a href="https://github.com/f1qxzz/daily-logs">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=f1qxzz&repo=daily-logs&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/f1qxzz/f1qxzz">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=f1qxzz&repo=f1qxzz&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9" />
+</a>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="60" />
+
+  <br/>
 
   **"First, solve the problem. Then, write the code."** — John Johnson
 
