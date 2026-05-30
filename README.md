@@ -25,36 +25,39 @@
 
 ## About Me
 
-<table>
-<tr>
-<td>
+<br/>
 
-```yaml
-name: f1qxzz
-role: Full-Stack Developer
-location: Indonesia
-education: Self-taught + Online Courses
-currently: Building cool stuff
-philosophy: Code is poetry
-```
+<div align="center">
 
-</td>
-<td>
+| | |
+|:---:|:---|
+| **Name** | f1qxzz |
+| **Role** | Full-Stack Developer |
+| **Location** | Indonesia |
+| **Education** | Self-taught + Online Courses |
+| **Currently** | Building cool stuff |
+| **Philosophy** | Code is poetry |
+
+</div>
+
+<br/>
+
+<div align="center">
 
 - Passionate about clean code and good UX
 - Love solving complex problems with simple solutions
 - Always learning, always shipping
 - Open source enthusiast
 
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
 ---
 
 ## Tech Stack
+
+<br/>
 
 <table>
 <tr>
@@ -133,18 +136,6 @@ philosophy: Code is poetry
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=f1qxzz&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area_color=58a6ff&area=true" />
-
-</div>
-
-<br/>
-
----
-
-## Random Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 </div>
 
