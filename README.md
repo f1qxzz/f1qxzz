@@ -146,17 +146,23 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Sparkles.png" width="28" /> Featured Repositories
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Sparkles.png" width="28" /> Popular Repositories
 
 <br/>
 
 <div align="center">
 
-<a href="https://github.com/f1qxzz/daily-logs">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=f1qxzz&repo=daily-logs&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9" />
+<a href="https://github.com/f1qxzz/rekapin">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=f1qxzz&repo=rekapin&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9" />
 </a>
-<a href="https://github.com/f1qxzz/f1qxzz">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=f1qxzz&repo=f1qxzz&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9" />
+<a href="https://github.com/f1qxzz/smartlife">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=f1qxzz&repo=smartlife&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/f1qxzz/agent-ai">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=f1qxzz&repo=agent-ai&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/f1qxzz/cozy-library">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=f1qxzz&repo=cozy-library&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9" />
 </a>
 
 </div>
