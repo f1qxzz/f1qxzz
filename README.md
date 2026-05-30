@@ -2,7 +2,7 @@
 
   <!-- Profile Image -->
   <a href="https://github.com/f1qxzz">
-    <img width="150" src="https://avatars.githubusercontent.com/u/f1qxzz" alt="f1qxzz" style="border-radius:50%; border: 3px solid #00FF87;"/>
+    <img width="150" src="https://avatars.githubusercontent.com/f1qxzz" alt="f1qxzz" style="border-radius:50%; border: 3px solid #00FF87;"/>
   </a>
 
   <br/><br/>
@@ -155,20 +155,6 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="35" /> GitHub Contribution Snake
-
-<br/>
-
-<div align="center">
-
-![snake](https://raw.githubusercontent.com/f1qxzz/f1qxzz/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-<br/>
-
----
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Notebook.png" width="35" /> Recent Activity
 
 <br/>
@@ -190,12 +176,8 @@
 
   <br/><br/>
 
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-snake-dark.svg" width="100%" />
-
-  <br/><br/>
-
   <!-- Footer -->
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="60" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="60" />
 
   <br/>
 
