@@ -14,6 +14,8 @@
     <img src="https://komarev.com/ghpvc/?username=f1qxzz&label=PROFILE+VIEWS&color=58a6ff&style=for-the-badge&labelColor=0d1117" alt="Profile views" />
   </a>
   <img src="https://img.shields.io/badge/-Follow-30363d?style=for-the-badge&logo=github&logoColor=white" alt="Follow" />
+  <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 
 </div>
 
@@ -21,9 +23,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="28" /> About Me
-
-<br/>
+## About Me
 
 <table>
 <tr>
@@ -32,7 +32,7 @@
 ```yaml
 name: f1qxzz
 role: Full-Stack Developer
-location: Indonesia 🇮🇩
+location: Indonesia
 education: Self-taught + Online Courses
 currently: Building cool stuff
 philosophy: Code is poetry
@@ -54,9 +54,7 @@ philosophy: Code is poetry
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28" /> Tech Stack
-
-<br/>
+## Tech Stack
 
 <table>
 <tr>
@@ -111,32 +109,18 @@ philosophy: Code is poetry
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> GitHub Analytics
-
-<br/>
-
-<table>
-<tr>
-<td><strong>Stats</strong></td>
-<td><strong>Top Languages</strong></td>
-</tr>
-<tr>
-<td>
-
-<img width="350" src="https://github-readme-stats.vercel.app/api?username=f1qxzz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-
-</td>
-<td>
-
-<img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f1qxzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&langs_count=6" />
-
-</td>
-</tr>
-</table>
+## GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=f1qxzz&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=f1qxzz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=f1qxzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&langs_count=6" />
+
+</div>
+
+<div align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=f1qxzz&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9" />
 
 </div>
 
@@ -144,11 +128,23 @@ philosophy: Code is poetry
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> Activity Graph
+## Activity Graph
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=f1qxzz&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area_color=58a6ff&area=true" />
+
+</div>
+
+<br/>
+
+---
+
+## Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 </div>
 
